@@ -1,0 +1,111 @@
+[
+    {
+        "id": 1,
+        "name": "Chocolate Cake",
+        "price": 500,
+        "image": "img/cakeA.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Vanilla Cake",
+        "price": 400,
+        "image": "img/cakeB.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Vanilla Cupcake",
+        "price": 80,
+        "image": "img/cakeC.jpg"
+    }
+    ,
+    {
+        "id": 4,
+        "name": "Red-velvet Cake",
+        "price": 450,
+        "image": "img/cake1.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Chocolate-truffle Cake",
+        "price": 400,
+        "image": "img/cake2.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Butterscotch Cake",
+        "price": 400,
+        "image": "img/cake3.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Butterscotch Cake",
+        "price": 400,
+        "image": "img/cake4.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Tuti-fruti Cake",
+        "price": 250,
+        "image": "img/cake5.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Red-velvet Cupcake",
+        "price": 50,
+        "image": "img/cake6.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Red-velvet Cupcake",
+        "price": 50,
+        "image": "img/cake7.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Vanilla Cake",
+        "price": 300,
+        "image": "img/cake8.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Rainbow Cake",
+        "price": 250,
+        "image": "img/cake9.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Chocolate-Vanilla Cake",
+        "price": 300,
+        "image": "img/cake10.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Truffle-Vanilla Cake",
+        "price": 350,
+        "image": "img/cake11.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Vanilla Cupcake",
+        "price": 80,
+        "image": "img/cake12.jpg"
+    },
+    {
+        "id": 16,
+        "name": "Butterscotch Cupcake",
+        "price": 60,
+        "image": "img/cake13.jpg"
+    },
+    {
+        "id": 17,
+        "name": "Vanilla Cupcake",
+        "price": 80,
+        "image": "img/cake14.jpg"
+    },
+    {
+        "id": 18,
+        "name": "Butterscotch-fruits Cake",
+        "price": 450,
+        "image": "img/cake15.jpg"
+    }
+]
